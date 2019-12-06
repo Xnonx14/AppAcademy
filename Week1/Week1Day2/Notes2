@@ -1,0 +1,34 @@
+rspec
+    lib
+        ruby code
+    spec
+        ruby test files
+    keywords
+        describe
+        it
+        expect
+    
+byebug
+    require "byebug"
+    debugger
+    you can call variable names to see what they store after debugger is ran
+    next
+    step or s
+        goes inside of functions
+    break
+        breakpoint
+    continue
+    display var1
+    display var2
+
+inclusive range
+    0..n
+exclusive range
+    0...n
+
+Errors
+    NameError
+    SyntaxError
+    NoMethodError
+    TypeError
+    ArgumentError
